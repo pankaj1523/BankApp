@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c8850b0-aa1a-4ede-9c11-601d520ff285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankApplicaton.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank/application/BankInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank/application/HDFCBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank/application/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank/application/SBI.java" afterDir="false" />
-    </list>
+    <list default="true" id="0c8850b0-aa1a-4ede-9c11-601d520ff285" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +81,7 @@
       <workItem from="1729946426144" duration="9000" />
       <workItem from="1729963394074" duration="596000" />
       <workItem from="1730049419117" duration="645000" />
+      <workItem from="1730112167335" duration="306000" />
     </task>
     <servers />
   </component>
